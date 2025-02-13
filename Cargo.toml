@@ -1,7 +1,7 @@
 [package]
 name = "dezoomify-rs"
-version = "2.13.0"
-authors = ["lovasoa"]
+version = "2.13.1.beta"
+authors = ["lovasoa/jf"]
 edition = "2021"
 license-file = "LICENSE"
 description = "Allows downloading zoomable images. Supports several different formats such as zoomify, iiif, and deep zoom images."
